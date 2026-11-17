@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+uploads/
+faiss_index/
+node_modules
+dist
+.env.local
+*.log
+.DS_Store
+# React frontend build artifacts
+frontend/node_modules/
+frontend/dist/
